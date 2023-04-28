@@ -133,4 +133,13 @@ body {
   background-color: white;
 }
 
+.innertext {
+  width: 95%;
+  height: 80px;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
 /*# sourceMappingURL=main.css.map */
